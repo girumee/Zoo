@@ -1,2 +1,2 @@
 # Zoo
-Sample project for leading purpose.
+Sample project for learning purpose.
